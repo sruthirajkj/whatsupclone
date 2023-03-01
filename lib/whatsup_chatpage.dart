@@ -41,6 +41,10 @@ class _Whatsup_chatpageState extends State<Whatsup_chatpage> {
                   //   backgroundImage: Image.asset(contacts["profile_pic"]),
                   // ),
 
+
+
+
+
                   trailing: Column(
                       crossAxisAlignment: CrossAxisAlignment.end,
                       children: [
